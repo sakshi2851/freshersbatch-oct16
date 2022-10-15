@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-hello.. 
-sakshi
-sangle..
-
-=======
-hi..
+hi
 sakshi
 sangle
->>>>>>> css-assignments
